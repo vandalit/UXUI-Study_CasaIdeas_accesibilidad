@@ -49,8 +49,9 @@ header{
     margin-top: 30px;
 }
 
-nav {
-    postion: sticky;
+nav.row {
+    postion: fixed;
+    z-index: +2;
 }
 
 .img-logo{
