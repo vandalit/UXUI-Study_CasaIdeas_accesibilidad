@@ -52,6 +52,7 @@ header{
 nav.row {
     postion: fixed;
     z-index: +2;
+    top: 0;
 }
 
 .img-logo{
